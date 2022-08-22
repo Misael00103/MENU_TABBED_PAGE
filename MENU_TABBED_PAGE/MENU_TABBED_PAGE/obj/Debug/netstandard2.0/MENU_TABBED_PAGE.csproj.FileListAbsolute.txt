@@ -1,0 +1,14 @@
+C:\Users\Misael Beriguete\source\repos\MENU_TABBED_PAGE\MENU_TABBED_PAGE\MENU_TABBED_PAGE\obj\Debug\netstandard2.0\MENU_TABBED_PAGE.csproj.AssemblyReference.cache
+C:\Users\Misael Beriguete\source\repos\MENU_TABBED_PAGE\MENU_TABBED_PAGE\MENU_TABBED_PAGE\obj\Debug\netstandard2.0\MENU_TABBED_PAGE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misael Beriguete\source\repos\MENU_TABBED_PAGE\MENU_TABBED_PAGE\MENU_TABBED_PAGE\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Misael Beriguete\source\repos\MENU_TABBED_PAGE\MENU_TABBED_PAGE\MENU_TABBED_PAGE\obj\Debug\netstandard2.0\Estudiantes.xaml.g.cs
+C:\Users\Misael Beriguete\source\repos\MENU_TABBED_PAGE\MENU_TABBED_PAGE\MENU_TABBED_PAGE\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Misael Beriguete\source\repos\MENU_TABBED_PAGE\MENU_TABBED_PAGE\MENU_TABBED_PAGE\obj\Debug\netstandard2.0\Materia.xaml.g.cs
+C:\Users\Misael Beriguete\source\repos\MENU_TABBED_PAGE\MENU_TABBED_PAGE\MENU_TABBED_PAGE\obj\Debug\netstandard2.0\Profesor.xaml.g.cs
+C:\Users\Misael Beriguete\source\repos\MENU_TABBED_PAGE\MENU_TABBED_PAGE\MENU_TABBED_PAGE\obj\Debug\netstandard2.0\Universidad.xaml.g.cs
+C:\Users\Misael Beriguete\source\repos\MENU_TABBED_PAGE\MENU_TABBED_PAGE\MENU_TABBED_PAGE\obj\Debug\netstandard2.0\MENU_TABBED_PAGE.AssemblyInfoInputs.cache
+C:\Users\Misael Beriguete\source\repos\MENU_TABBED_PAGE\MENU_TABBED_PAGE\MENU_TABBED_PAGE\obj\Debug\netstandard2.0\MENU_TABBED_PAGE.AssemblyInfo.cs
+C:\Users\Misael Beriguete\source\repos\MENU_TABBED_PAGE\MENU_TABBED_PAGE\MENU_TABBED_PAGE\obj\Debug\netstandard2.0\MENU_TABBED_PAGE.csproj.CoreCompileInputs.cache
+C:\Users\Misael Beriguete\source\repos\MENU_TABBED_PAGE\MENU_TABBED_PAGE\MENU_TABBED_PAGE\obj\Debug\netstandard2.0\MENU_TABBED_PAGE.dll
+C:\Users\Misael Beriguete\source\repos\MENU_TABBED_PAGE\MENU_TABBED_PAGE\MENU_TABBED_PAGE\obj\Debug\netstandard2.0\refint\MENU_TABBED_PAGE.dll
+C:\Users\Misael Beriguete\source\repos\MENU_TABBED_PAGE\MENU_TABBED_PAGE\MENU_TABBED_PAGE\obj\Debug\netstandard2.0\MENU_TABBED_PAGE.pdb
